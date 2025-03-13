@@ -84,13 +84,12 @@ button {
   color: #fff;
   background-color: #4d5ae5;
 }
-.hero-btn :hover {
+.hero-btn:hover {
   background-color: #404bbf;
 }
-.hero-btn :focus {
+.hero-btn:focus {
   background-color: #404bbf;
 }
-
 /* Features */
 .features {
 }
@@ -122,6 +121,7 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 .team-list {
 }
@@ -167,6 +167,7 @@ button {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 .portfolio-list-text {
   font-size: 16px;
